@@ -6,7 +6,7 @@ You will configure this properties to your project:
 | Property | Example |Type |
 | ----------- | --- |----------- |
 | Domain | http://localhost:8081 |String or [String] |
-| Secret Key (JWT) | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9... | String |
+| Secret key to sign applicant JWT | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9 | String |
 | Success Redirect URL| https://exmapledomain.com/success | String |
 
 ---
